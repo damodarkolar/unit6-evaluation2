@@ -1,7 +1,12 @@
 import React from "react";
 
 const Products = () => {
-  return <div>{/* CODE HERE */}</div>;
+  return <div>{
+    const data=useEffect(()=>{
+      fetch(``)
+    },[])
+    
+    }</div>;
 };
 
 export default Products;
